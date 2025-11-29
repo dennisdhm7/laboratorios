@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab_ws_cliente_basico_hinojosa\\lab_ws_cliente_basico_hinojosa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E270439-4572-4A9A-9628-956F33E3BC65}|lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa.csproj|solutionrelative:lab_ws_cliente_basico_hinojosa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:00:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form6.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form6.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form6.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:59:49.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Program.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Program.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:54:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:52:06.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form5.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:45:04.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:41:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form4.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:38:16.414Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:29:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form3.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:23:35.515Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:17:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form2.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:14:46.934Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:12:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "RelativeDocumentMoniker": "lab_WS_Cliente_Basico_Hinojosa\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\lab_WS_Cliente_Basico_Hinojosa\\lab_WS_Cliente_Basico_Hinojosa\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "lab_WS_Cliente_Basico_Hinojosa\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:06:48.958Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

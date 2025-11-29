@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Lab07_LINQ_Arrays_Hinojosa.Models.Categoria>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Lista de Categorias</h1>
+            <br /><br />
+            <table border="1">
+                <thead>
+                    <tr>
+                        <td>Id</td>
+                        <td>Categoria</td>
+                        <td>Descripcion</td>
+                        <td>Estado</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@(c.id_categ)</td>
+                    <td>@(c.nombre)</td>
+                    <td>@(c.descripcion)</td>
+                    <td>@(c.estado.Equals("A") ? "Activo" : "Inactivo")</td>
+                </tr>
+            }
+                </tbody>
+            </table>
+        </center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿@model SistemaWeb_Hinojosa.Models.Categoria
+@{
+    ViewBag.Title = "AgregarEditar";
+}
+
+<h2>Agregar / Editar Categoría</h2>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="~/Categoria/Index">Categorías</a></li>
+        <li class="breadcrumb-item active">
+            @(Model.id_categ > 0 ? Model.nombre : "Nuevo registro")
+        </li>
+    </ol>
+</nav>
+
+<div class="card">
+    <div class="card-header">
+        <div class="card-title">Información de la Categoría</div>
+    </div>
+    <div class="card-body">
+        @using (Html.BeginForm("Guardar", "Categoria", FormMethod.Post))
+        {
+            @Html.HiddenFor(x => x.id_categ)
+
+            <div class="form-group mb-3">
+                @Html.Label("ID", htmlAttributes: new { @class = "form-label" })
+                <input type="text" class="form-control" value="@Model.id_categ" disabled />
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.Label("Categoría", htmlAttributes: new { @class = "form-label" })
+                @Html.TextBoxFor(x => x.nombre, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.nombre, null, new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.Label("Descripción", htmlAttributes: new { @class = "form-label" })
+                @Html.TextBoxFor(x => x.descripcion, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.descripcion, null, new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.Label("Estado", htmlAttributes: new { @class = "form-label" })
+                <select name="estado" class="form-control">
+                    <option @(Model.estado == "" ? "selected" : "") value="">-- Seleccione --</option>
+                    <option @(Model.estado == "A" ? "selected" : "") value="A">Activo</option>
+                    <option @(Model.estado == "I" ? "selected" : "") value="I">Inactivo</option>
+                </select>
+                @Html.ValidationMessageFor(x => x.estado, null, new { @class = "text-danger" })
+            </div>
+
+            <div class="text-end">
+                <button type="submit" class="btn btn-primary">Guardar</button>
+                <a href="~/Categoria/Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        }
+    </div>
+</div>

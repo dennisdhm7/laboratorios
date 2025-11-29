@@ -1,0 +1,115 @@
+﻿@model IEnumerable<PracticaCalifica_ChristianHinojosa.Models.Atencion>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .card-header-custom {
+        background: linear-gradient(135deg, #007bff, #0056b3);
+        color: white;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .btn-modern {
+        border-radius: 8px;
+        padding: 10px 18px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .table thead {
+        background: #007bff;
+        color: white;
+    }
+
+    .welcome-box {
+        background: #f8f9fa;
+        border-left: 5px solid #007bff;
+        padding: 15px;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        border-radius: 6px;
+    }
+</style>
+
+<div class="container mt-4">
+
+    <div class="welcome-box">
+        👋 Bienvenido <strong>@ViewBag.NombreDocente</strong>
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-header card-header-custom">
+            Panel principal del Docente
+        </div>
+
+        <div class="card-body">
+
+            <div class="row text-center mb-4">
+
+                <div class="col-md-6 mb-2">
+                    <a class="btn btn-primary btn-modern btn-block" href="/Atencions/Create">
+                        ➕ Registrar nueva atención
+                    </a>
+                </div>
+
+                <div class="col-md-6 mb-2">
+                    <a class="btn btn-info btn-modern btn-block" href="/Atencions">
+                        📊 Ver Reportes
+                    </a>
+                </div>
+
+            </div>
+
+            <hr />
+
+            <h4 class="mb-3 text-primary">📘 Mis Atenciones Registradas</h4>
+
+            <table class="table table-bordered table-hover shadow-sm">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Estudiante</th>
+                        <th>Tema</th>
+                        <th>Semestre</th>
+                        <th style="width: 150px;">Acciones</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (!Model.Any())
+                    {
+                        <tr>
+                            <td colspan="5" class="text-center text-muted p-4">
+                                No hay atenciones registradas todavía.
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.FechaAtencion.ToString("dd/MM/yyyy HH:mm")</td>
+                                <td>@item.Estudiante.Codigo - @item.Estudiante.Apellidos @item.Estudiante.Nombres</td>
+                                <td>@item.Tema</td>
+                                <td>@item.Semestre</td>
+                                <td>
+                                    <div class="btn-group">
+                                        <a class="btn btn-sm btn-outline-secondary" href="/Atencions/Details/@item.Id">Ver</a>
+                                        <a class="btn btn-sm btn-outline-primary" href="/Atencions/Edit/@item.Id">Editar</a>
+                                        <a class="btn btn-sm btn-outline-danger" href="/Atencions/Delete/@item.Id">Eliminar</a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>

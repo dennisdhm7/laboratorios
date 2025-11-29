@@ -1,0 +1,41 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card h5 {
+  margin: 0;
+}
+
+.card span {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.table thead {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+.badge {
+  font-weight: 600;
+}
+
+.btn-info {
+  background-color: #0dcaf0;
+  border: none;
+}
+
+.btn-info:hover {
+  background-color: #0bb4d4;
+}
+
+.btn-success, .btn-danger {
+  font-weight: 500;
+}
+
+.btn-success i, .btn-danger i, .btn-info i {
+  vertical-align: middle;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Listar Años por Tipo - SOAP</title>
+</head>
+<body>
+<center>
+    <h1>Listar Años según Tipo - WS</h1>
+
+    <form onsubmit="listarAnios(event)">
+        <label>Año Inicial:</label>
+        <input type="number" id="inicio" required><br><br>
+
+        <label>Año Final:</label>
+        <input type="number" id="fin" required><br><br>
+
+        <label>Tipo:</label>
+        <select id="tipo">
+            <option value="bisiestos">Bisiestos</option>
+            <option value="nobisiestos">No Bisiestos</option>
+            <option value="ambos">Ambos</option>
+        </select><br><br>
+
+        <button type="submit">Consultar</button>
+    </form>
+
+    <h2>Resultado:</h2>
+    <div id="resultado"></div>
+</center>
+
+<script>
+function listarAnios(event) {
+    event.preventDefault();
+
+    let anioInicial = document.getElementById("inicio").value;
+    let anioFinal   = document.getElementById("fin").value;
+    let tipo        = document.getElementById("tipo").value;
+
+    let url = "http://localhost:56791/WebServices/WS_Server.asmx";
+
+    // XML SOAP
+    let xml = `
+    <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                   xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <soap:Body>
+        <ListarAñosTipos xmlns="http://tempuri.org/">
+          <anioInicial>${anioInicial}</anioInicial>
+          <anioFinal>${anioFinal}</anioFinal>
+          <tipo>${tipo}</tipo>
+        </ListarAñosTipos>
+      </soap:Body>
+    </soap:Envelope>
+    `;
+
+    // Enviar petición SOAP
+    fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "text/xml; charset=utf-8",
+            "SOAPAction": "http://tempuri.org/ListarAñosTipos"
+        },
+        body: xml
+    })
+    .then(r => r.text())
+    .then(data => {
+
+        // Parsear XML
+        let parser = new DOMParser();
+        let xmlDoc = parser.parseFromString(data, "text/xml");
+
+        let nodos = xmlDoc.getElementsByTagName("string");
+        let html  = "";
+
+        if (nodos.length === 0) {
+            // Caso de error o rango inválido
+            let errorTxt = xmlDoc.getElementsByTagName("ListarAñosTiposResult")[0]?.textContent;
+            document.getElementById("resultado").innerHTML = errorTxt;
+            return;
+        }
+
+        // Mostrar los resultados
+        for (let i = 0; i < nodos.length; i++) {
+            html += nodos[i].textContent + "<br>";
+        }
+
+        document.getElementById("resultado").innerHTML = html;
+    })
+    .catch(err => alert("Error: " + err));
+}
+</script>
+
+</body>
+</html>

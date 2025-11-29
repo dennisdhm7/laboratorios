@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Lab02.MVC_Chite.Models.ClsPersona>
+@{
+    ViewBag.Title = "MostrarTodos";
+}
+<center>
+    <h2>MostrarTodos</h2>
+    <br /><br />
+    <table class="table table-hover">
+        <tr>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Email</th>
+            <th>Edad</th>
+            <th>Estatura</th>
+            <th>Estado Civil</th>
+        </tr>
+        @foreach(var item in Model)
+         {
+           <tr>
+               <td>
+                   @Html.DisplayFor(modelItem => item.nombre)
+               </td>
+               <td>
+                   @Html.DisplayFor(modelItem => item.apellido)
+               </td>
+               <td>
+                   @Html.DisplayFor(modelItem => item.email)
+               </td>
+               <td>
+                   @Html.DisplayFor(modelItem => item.edad)
+               </td>
+               <td>
+                   @Html.DisplayFor(modelItem => item.estatura)
+               </td>
+               <td>
+                   @Html.DisplayFor(modelItem => item.soltero)
+               </td>
+           </tr> 
+         }
+    </table>
+    <br /><br />
+</center>
+

@@ -1,0 +1,23 @@
+﻿@model PracticaCalifica_ChristianHinojosa.Models.Atencion
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4 text-danger">¿Eliminar Atención?</h2>
+
+<div class="card p-4 border-danger">
+
+    <p><strong>Docente:</strong> @($"{Model.Docente.Apellidos} {Model.Docente.Nombres}")</p>
+    <p><strong>Estudiante:</strong> @($"{Model.Estudiante.Codigo} - {Model.Estudiante.Apellidos} {Model.Estudiante.Nombres}")</p>
+    <p><strong>Tema:</strong> @Model.Tema</p>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.Id)
+
+        <button type="submit" class="btn btn-danger mt-3">Eliminar</button>
+        <a href="@Url.Action("Index")" class="btn btn-secondary mt-3">Cancelar</a>
+    }
+</div>

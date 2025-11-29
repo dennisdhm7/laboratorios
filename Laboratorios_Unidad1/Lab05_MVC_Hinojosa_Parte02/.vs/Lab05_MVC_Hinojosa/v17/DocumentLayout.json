@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\juego\\generarjuego.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\juego\\generarjuego.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\controllers\\aguacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:controllers\\aguacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\models\\clsjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:models\\clsjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\models\\clsagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:models\\clsagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\positivo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\positivo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\positivo\\separar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\positivo\\separar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\controllers\\positivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:controllers\\positivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\models\\clspositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:models\\clspositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\agua\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\agua\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab05_mvc_hinojosa\\views\\venta\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{784FC304-5870-43B4-9AFE-2B093325BF79}|Lab05_MVC_Hinojosa.csproj|solutionrelative:views\\venta\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerarJuego.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Juego\\GenerarJuego.cshtml",
+              "RelativeDocumentMoniker": "Views\\Juego\\GenerarJuego.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Juego\\GenerarJuego.cshtml",
+              "RelativeToolTip": "Views\\Juego\\GenerarJuego.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T00:01:59.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsJuego.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsJuego.cs",
+              "RelativeDocumentMoniker": "Models\\ClsJuego.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsJuego.cs",
+              "RelativeToolTip": "Models\\ClsJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T00:01:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\JuegoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JuegoController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\JuegoController.cs",
+              "RelativeToolTip": "Controllers\\JuegoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T00:00:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Venta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Venta\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venta\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T23:18:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Positivo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Positivo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Positivo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Positivo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T23:02:17.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsAgua.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsAgua.cs",
+              "RelativeDocumentMoniker": "Models\\ClsAgua.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsAgua.cs",
+              "RelativeToolTip": "Models\\ClsAgua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:55:44.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AguaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\AguaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AguaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\AguaController.cs",
+              "RelativeToolTip": "Controllers\\AguaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:53:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:54:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Separar.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Positivo\\Separar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Positivo\\Separar.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Positivo\\Separar.cshtml",
+              "RelativeToolTip": "Views\\Positivo\\Separar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T23:03:08.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\VentaViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\VentaViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\VentaViewModel.cs",
+              "RelativeToolTip": "Models\\VentaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:56:24.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositivoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\PositivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PositivoController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Controllers\\PositivoController.cs",
+              "RelativeToolTip": "Controllers\\PositivoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:56:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClsPositivos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsPositivos.cs",
+              "RelativeDocumentMoniker": "Models\\ClsPositivos.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Models\\ClsPositivos.cs",
+              "RelativeToolTip": "Models\\ClsPositivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:11:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Venta\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venta\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Venta\\Resultado.cshtml",
+              "RelativeToolTip": "Views\\Venta\\Resultado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T23:18:32.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Agua\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Agua\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab05_MVC_Hinojosa\\Views\\Agua\\Index.cshtml",
+              "RelativeToolTip": "Views\\Agua\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T23:01:19.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

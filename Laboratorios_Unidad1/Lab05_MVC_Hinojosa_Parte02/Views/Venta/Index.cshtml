@@ -1,0 +1,56 @@
+﻿@model Lab05_MVC_Hinojosa.Models.Producto.VentaViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Venta de Productos</h1>
+            <h2>Seleccione los productos</h2>
+            <br /><br />
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Seleccionar</th>
+                            <th>Imagen</th>
+                            <th>Producto</th>
+                            <th>Precio (S/. )</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.Productos.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.CheckBoxFor(m => m.Productos[i].Seleccionado)
+                                </td>
+                                <td>
+                                    <img src="@Url.Content(Model.Productos[i].ImagenUrl)" alt="@Model.Productos[i].Nombre" width="80">
+                                </td>
+                                <td>@Model.Productos[i].Nombre</td>
+                                <td>S/. @Model.Productos[i].Precio</td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+                <br /><br />
+                <button type="submit">Calcular la venta</button>
+                <br /><br />
+            }
+        </center>
+    </div>
+</body>
+</html>

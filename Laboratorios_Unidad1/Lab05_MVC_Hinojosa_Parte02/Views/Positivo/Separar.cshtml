@@ -1,0 +1,56 @@
+﻿@model Lab05_MVC_Hinojosa.Models.ClsPositivos
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Separar</title>
+    <style>
+        .mensaje-grande {
+            font-size: 48px;
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <center>
+            <div>
+                <!-- Mensaje removido -->
+            </div>
+        </center>
+
+    </div>
+    <br /><br />
+    <center>
+        <div>
+            <h3>Numeros Positivos</h3>
+            <br /><br />
+            @if (Model != null)
+            {
+                foreach (int item in Model.numerosPositivos)
+                {
+                    @item <br />
+                }
+            }
+        </div>
+        <div>
+            <h3>Numeros Negativos</h3>
+            <br /><br />
+            @if (Model != null)
+            {
+                foreach (int item in Model.numerosNegativos)
+                {
+                    @item <br />
+                }
+            }
+        </div>
+    </center>
+    </div>
+</body>
+</html>

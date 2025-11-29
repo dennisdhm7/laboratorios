@@ -1,0 +1,27 @@
+﻿@model Lab02.MVC_Chite.Models.ClsPersona
+@{
+    ViewBag.Title = "MostrarUno";
+}
+<center>
+    <h2>Mostrar Uno</h2>
+    <br />
+    <div class="card">
+        <div class="card-header">
+            Datos personales
+        </div>
+        <div class="card-body">
+            <label class="text-danger">Nombres: </label>
+            @Model.nombre <br />
+            <label class="text-danger">Apellidos: </label>
+            @Model.apellido <br />
+            <label class="text-danger">Email: </label>
+            @Model.email <br />
+            <label class="text-danger">Edad: </label>
+            @Model.edad <br />
+            <label class="text-danger">Estatura: </label>
+            @Model.estatura <br />
+            <label class="text-danger">Soltero: </label>
+            @(Model.soltero.Equals(true) ? "Soltero" : "Casado") <br />
+        </div>
+</center>
+

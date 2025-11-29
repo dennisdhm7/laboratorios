@@ -1,0 +1,54 @@
+﻿@model Lab05_MVC_Hinojosa.Models.ClsPositivos
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .mensaje-grande {
+            font-size: 48px;
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <center>
+            <div>
+                <!-- Mensaje removido -->
+            </div>
+            <h1>
+                Numeros Positivos y Negativos
+            </h1>
+            <br /><br />
+            @using (Html.BeginForm("Separar", "Positivo", FormMethod.Post))
+
+            {
+                for (int i = 0; i < 10; i++)
+                {
+                    <div>
+                        <div>
+                            @Html.Label("Valor" + (i + 1)) <br>
+                        </div>
+                        <div>
+                            @Html.TextBox("value" + i)
+                        </div>
+                    </div>
+                }
+                <br />
+                <br />
+                <div>
+                    <button type="submit">Separar</button>
+                </div>
+            }
+
+
+
+</body>
+</html>

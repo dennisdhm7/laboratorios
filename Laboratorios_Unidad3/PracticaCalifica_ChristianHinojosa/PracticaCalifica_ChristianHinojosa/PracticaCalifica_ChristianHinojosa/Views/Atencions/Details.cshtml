@@ -1,0 +1,23 @@
+﻿@model PracticaCalifica_ChristianHinojosa.Models.Atencion
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4">Detalles de la Atención</h2>
+
+<div class="card p-4">
+
+    <p><strong>Docente:</strong> @($"{Model.Docente.Apellidos} {Model.Docente.Nombres}")</p>
+    <p><strong>Estudiante:</strong> @($"{Model.Estudiante.Codigo} - {Model.Estudiante.Apellidos} {Model.Estudiante.Nombres}")</p>
+    <p><strong>Semestre:</strong> @Model.Semestre</p>
+    <p><strong>Fecha:</strong> @Model.FechaAtencion</p>
+    <p><strong>Tema:</strong> @Model.Tema</p>
+    <p><strong>Consulta:</strong> @Model.Consulta</p>
+    <p><strong>Descripción:</strong> @Model.Descripcion</p>
+    <p><strong>Evidencia:</strong> @Model.Evidencia</p>
+
+    <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-warning mt-3">Editar</a>
+    <a href="@Url.Action("Index")" class="btn btn-secondary mt-3">Volver</a>
+
+</div>

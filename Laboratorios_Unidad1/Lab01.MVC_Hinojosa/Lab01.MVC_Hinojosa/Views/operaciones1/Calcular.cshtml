@@ -1,0 +1,29 @@
+﻿@model Lab01.MVC_Hinojosa.Models.ClsOperaciones
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Calcular</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Operaciones Aritmeticas</h1>
+            <br /><br />
+            <label>Numero 1: </label>@Model.numero1 <br />
+            <label>Numero 2: </label>@Model.numero2 <br />
+            <label>Operacion: </label>@Model.tipo <br />
+            <br />
+            <label>Resultado: </label>@Model.resultado
+            <br /><br />
+            <a href="Index"><< Retornar al formulario</a>
+            <br /><br />
+        </center>
+    </div>
+</body>
+</html>

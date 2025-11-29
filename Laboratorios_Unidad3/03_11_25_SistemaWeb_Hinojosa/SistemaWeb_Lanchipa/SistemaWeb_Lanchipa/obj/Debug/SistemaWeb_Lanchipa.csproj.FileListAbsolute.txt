@@ -1,0 +1,246 @@
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll.config
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.pdb
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe.config
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.rsp
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe.config
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.rsp
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.AppContext.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Console.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Http.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.ValueTuple.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe.config
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.rsp
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Razor.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.AssemblyReference.cache
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.CopyComplete
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.pdb
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.dll
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.xml
+C:\Users\Enrique Lanchipa\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll.config
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.pdb
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.CopyComplete
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.dll
+C:\Users\HP\source\repos\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.pdb
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll.config
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\SistemaWeb_Lanchipa.pdb
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaW.6CBB6FE7.Up2Date
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.dll
+C:\Users\HP\Desktop\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\SistemaWeb_Lanchipa\obj\Debug\SistemaWeb_Lanchipa.pdb

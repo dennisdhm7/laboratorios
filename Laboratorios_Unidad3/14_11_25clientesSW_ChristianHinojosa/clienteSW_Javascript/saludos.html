@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Cliente Web SOAP - Saludos</title>
+</head>
+<body>
+    <center>
+        <h1>Saludo Web Service</h1>
+        <h2>Método: Saludos()</h2>
+
+        <button onclick="llamarSaludos()">Obtener Saludo</button>
+
+        <h3 id="resultado"></h3>
+    </center>
+
+<script>
+function llamarSaludos() {
+    const url = "http://localhost:56791/WebServices/WS_Server.asmx";
+
+    const xml = `
+        <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                       xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                       xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+          <soap:Body>
+            <Saludos xmlns="http://tempuri.org/" />
+          </soap:Body>
+        </soap:Envelope>
+    `;
+
+    fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "text/xml; charset=utf-8",
+            "SOAPAction": "http://tempuri.org/Saludos"
+        },
+        body: xml
+    })
+    .then(response => response.text())
+    .then(data => {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(data, "text/xml");
+
+        const resultado = xmlDoc.getElementsByTagName("SaludosResult")[0].textContent;
+
+        document.getElementById("resultado").innerHTML = resultado;
+    })
+    .catch(err => alert("Error: " + err));
+}
+</script>
+
+</body>
+</html>

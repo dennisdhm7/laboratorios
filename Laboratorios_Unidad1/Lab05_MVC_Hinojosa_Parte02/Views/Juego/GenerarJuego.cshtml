@@ -1,0 +1,43 @@
+﻿@model Lab05_MVC_Hinojosa.Models.ClsJuego
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GenerarJuego</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Juego de la Ruleta</h1>
+            <br /><br />
+            @using (Html.BeginForm("GenerarJuego", "Juego", FormMethod.Post))
+            {
+                <p>
+                    @Html.LabelFor(model => model.numero1, "Ruleta")
+                </p>
+                <button type="button is-primary">Jugar Nuevamente</button>
+                <br /><br />
+                if (Session["i"] == null)
+                {
+                    Session["i"] = 1;
+                    <h3>? - ? - ?</h3>
+                }
+                else
+                {
+                    int contador = Convert.ToInt32(Session["i"]);
+                    contador++;
+                    Session["i"] = contador;
+                    <h3>@Model.numero1 - @Model.numero2 - @Model.numero3</h3>
+                }
+            }
+            <br /><br />
+            @Model.Resultado
+        </center>
+    </div>
+</body>
+</html>

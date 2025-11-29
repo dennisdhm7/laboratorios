@@ -1,0 +1,38 @@
+﻿@model Lab05.MVC_Chite.Models.ClsAgua
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Gasto de Agua</h1>
+        <br /><br />
+            @using (Html.BeginForm("Index", "Agua", FormMethod.Post))
+             {
+                @Html.LabelFor(m => Model.litros)
+                @Html.TextBoxFor(m => Model.litros, new { @type = "number" })
+                <br /><br />
+                <input type="submit" name="Calcular" value="Calcular" />
+             }
+        </center>
+    </div>
+    <br /><br />
+    <div style="text-align:center">
+        @if (ViewBag.Cuota != null)
+         {
+            <b>
+                @Html.Label("Cuota: ")
+                <p>S/. @ViewBag.Cuota</p>
+            </b>
+         }
+    </div>
+</body>
+</html>

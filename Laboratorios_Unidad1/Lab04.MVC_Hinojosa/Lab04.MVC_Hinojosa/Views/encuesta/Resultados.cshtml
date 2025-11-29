@@ -1,0 +1,82 @@
+﻿@model Lab04.MVC_Chite.Models.ClsEncuesta
+@{
+    ViewBag.Title = "Resultados";
+    var porcentajes = ViewBag.Porcentajes as Dictionary<string, int>;
+    int total = ViewBag.Total;
+}
+
+<center>
+    <h1>Resultados de la Encuesta</h1>
+    <div class="card">
+        <div class="card-header">
+            <div class="card-title">
+                <h2>¿Qué Lenguaje de Programación te gusta?</h2>
+                <p>Total de votos : <strong>@total</strong></p>
+            </div>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Opcion</th>
+                        <th>Votos</th>
+                        <th>Porcentaje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var opcion in Model.Opciones)
+                    {
+                        <tr>
+                            <td>@opcion</td>
+                            <td>@Model.Votos[opcion]</td>
+                            <td>@porcentajes[opcion]</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <p>
+                @Html.ActionLink("<< Volver a votar", "Index", "Encuesta", null, new { @class = "btn btn-secondary" })
+            </p>
+
+        </div>
+    </div>
+
+</center>
+
+<!-- Grafica de la encuesta-->
+<div stryle="max-with:500px; margin:auto;">
+    <canvas id="grafica">   </canvas>
+</div>
+<!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>-->
+
+<script src="~/Assets/js/chart.js"></script>
+<script>
+    var labels = @Html.Raw(System.Web.Helpers.Json.Encode(Model.Opciones))
+    var data = @Html.Raw(System.Web.Helpers.Json.Encode(
+              Model.Opciones.Select(o => Model.Votos[o]).ToList()
+    ));
+    var ctx = document.getElementById("grafica").getContext("2d");
+    var chart = new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels: labels,
+                datasets: [{
+                label: "Votos",
+                data: data,
+                backgroundColor: "rgba(54,162,235,0.7)",
+                borderColor: "rgba(54,162,235,1)",
+                borderWidth: 1
+            }]
+        },
+        options: {
+            resonsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: { beginAtZero: true, ticks: {precision: 0}}
+            }
+        }
+    });
+</script>
+<br />
+<br />
+

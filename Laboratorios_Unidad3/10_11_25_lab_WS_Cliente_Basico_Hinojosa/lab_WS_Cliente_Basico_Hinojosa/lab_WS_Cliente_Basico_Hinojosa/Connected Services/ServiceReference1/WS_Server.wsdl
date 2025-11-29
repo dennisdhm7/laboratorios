@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Saludos">
+        <s:complexType />
+      </s:element>
+      <s:element name="SaludosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SaludosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Suma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="num1" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="num2" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SumaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SumaResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Operaciones">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="num1" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="num2" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OperacionesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OperacionesResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Tabla1">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="numero" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Tabla1Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Tabla1Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Tabla2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="numero" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Tabla2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Tabla2Result" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarAñosTipos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="anioInicial" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="anioFinal" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAñosTiposResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAñosTiposResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaludosSoapIn">
+    <wsdl:part name="parameters" element="tns:Saludos" />
+  </wsdl:message>
+  <wsdl:message name="SaludosSoapOut">
+    <wsdl:part name="parameters" element="tns:SaludosResponse" />
+  </wsdl:message>
+  <wsdl:message name="SumaSoapIn">
+    <wsdl:part name="parameters" element="tns:Suma" />
+  </wsdl:message>
+  <wsdl:message name="SumaSoapOut">
+    <wsdl:part name="parameters" element="tns:SumaResponse" />
+  </wsdl:message>
+  <wsdl:message name="OperacionesSoapIn">
+    <wsdl:part name="parameters" element="tns:Operaciones" />
+  </wsdl:message>
+  <wsdl:message name="OperacionesSoapOut">
+    <wsdl:part name="parameters" element="tns:OperacionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="Tabla1SoapIn">
+    <wsdl:part name="parameters" element="tns:Tabla1" />
+  </wsdl:message>
+  <wsdl:message name="Tabla1SoapOut">
+    <wsdl:part name="parameters" element="tns:Tabla1Response" />
+  </wsdl:message>
+  <wsdl:message name="Tabla2SoapIn">
+    <wsdl:part name="parameters" element="tns:Tabla2" />
+  </wsdl:message>
+  <wsdl:message name="Tabla2SoapOut">
+    <wsdl:part name="parameters" element="tns:Tabla2Response" />
+  </wsdl:message>
+  <wsdl:message name="ListarAñosTiposSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAñosTipos" />
+  </wsdl:message>
+  <wsdl:message name="ListarAñosTiposSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAñosTiposResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_ServerSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Saludos">
+      <wsdl:input message="tns:SaludosSoapIn" />
+      <wsdl:output message="tns:SaludosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Suma">
+      <wsdl:input message="tns:SumaSoapIn" />
+      <wsdl:output message="tns:SumaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Operaciones">
+      <wsdl:input message="tns:OperacionesSoapIn" />
+      <wsdl:output message="tns:OperacionesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Tabla1">
+      <wsdl:input message="tns:Tabla1SoapIn" />
+      <wsdl:output message="tns:Tabla1SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Tabla2">
+      <wsdl:input message="tns:Tabla2SoapIn" />
+      <wsdl:output message="tns:Tabla2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAñosTipos">
+      <wsdl:input message="tns:ListarAñosTiposSoapIn" />
+      <wsdl:output message="tns:ListarAñosTiposSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_ServerSoap" type="tns:WS_ServerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Saludos">
+      <soap:operation soapAction="http://tempuri.org/Saludos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Suma">
+      <soap:operation soapAction="http://tempuri.org/Suma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Operaciones">
+      <soap:operation soapAction="http://tempuri.org/Operaciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Tabla1">
+      <soap:operation soapAction="http://tempuri.org/Tabla1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Tabla2">
+      <soap:operation soapAction="http://tempuri.org/Tabla2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAñosTipos">
+      <soap:operation soapAction="http://tempuri.org/ListarAñosTipos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_ServerSoap12" type="tns:WS_ServerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Saludos">
+      <soap12:operation soapAction="http://tempuri.org/Saludos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Suma">
+      <soap12:operation soapAction="http://tempuri.org/Suma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Operaciones">
+      <soap12:operation soapAction="http://tempuri.org/Operaciones" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Tabla1">
+      <soap12:operation soapAction="http://tempuri.org/Tabla1" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Tabla2">
+      <soap12:operation soapAction="http://tempuri.org/Tabla2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAñosTipos">
+      <soap12:operation soapAction="http://tempuri.org/ListarAñosTipos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_Server">
+    <wsdl:port name="WS_ServerSoap" binding="tns:WS_ServerSoap">
+      <soap:address location="http://localhost:56791/WebServices/WS_Server.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_ServerSoap12" binding="tns:WS_ServerSoap12">
+      <soap12:address location="http://localhost:56791/WebServices/WS_Server.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

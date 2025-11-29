@@ -1,0 +1,57 @@
+﻿
+@model Lab03_MVC_Hinojosa.Models.ClsBillete
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CalcularDenominacion</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Dispesandor de Billetes - Christian Dennis Hinojosa Mucho</h1>
+            <br /><br />
+            @using (Html.BeginForm("CalcularDenominacion", "Billete", FormMethod.Post))
+            {
+                <p>
+                    @Html.LabelFor(model => model.monto, "Total S/. ")
+                    @Html.EditorFor(model => model.monto)
+                    @Html.ValidationMessageFor(model => model.monto)
+
+                    <br /><br />
+                    <button class="btn-primary">Calcular</button>
+                    <br /><br />
+                          <div>
+
+                              <p><b>Cantidad de Billetes: </b>@Model.totalBilletes</p>
+
+                              <p><b>Billete de 100: </b>@Model.b100</p>
+                              <p><b>Billete de 50: </b>@Model.b50</p>
+                              <p><b>Billete de 20: </b>@Model.b20</p>
+                              <p><b>Billete de 10: </b>@Model.b10</p>
+
+                              <p><b>Cantidad de Monedas: </b>@Model.totalMonedas</p>
+
+                              <p><b>Moneda de 5: </b>@Model.m5</p>
+                              <p><b>Moneda de 2: </b>@Model.m2</p>
+                              <p><b>Moneda de 1: </b>@Model.m1</p>
+                              <p><b>Moneda de 0.50: </b>@Model.m050</p>
+                              <p><b>Moneda de 0.20: </b>@Model.m020</p>
+                              <p><b>Moneda de 0.10: </b>@Model.m010</p>
+                              <p><b>Moneda de 0.05: </b>@Model.m005</p>
+                              <p><b>Moneda de 0.02: </b>@Model.m002</p>
+                              <p><b>Moneda de 0.01: </b>@Model.m001</p>
+
+                          </div>
+
+                </p>
+            }
+        </center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel de Soporte - Autorización</title>
+
+  <!-- Bootstrap y estilos -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body class="bg-light">
+
+  <!-- 🔹 NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm px-4">
+    <a class="navbar-brand fw-bold text-white" href="#">
+      <i class="bi bi-hdd-network me-2"></i>Préstamo de Servidores
+    </a>
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item"><a href="soporte.html" class="nav-link active"><i class="bi bi-house-door me-1"></i>Inicio</a></li>
+      <li class="nav-item"><a href="reportes.html" class="nav-link"><i class="bi bi-bar-chart-line me-1"></i>Reportes</a></li>
+    </ul>
+  </nav>
+
+  <!-- 🔸 CONTENIDO PRINCIPAL -->
+  <div class="container py-4">
+    <h3 class="fw-bold text-dark mb-4"><i class="bi bi-gear me-2"></i>Autorización de Solicitudes</h3>
+
+    <!-- 📊 RESUMEN -->
+    <div class="row g-3 mb-4 text-center">
+      <div class="col-md-3">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <i class="bi bi-collection fs-3 text-primary"></i>
+            <h6>Total</h6>
+            <h3 id="totalSolicitudes">0</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <i class="bi bi-hourglass-split fs-3 text-warning"></i>
+            <h6>Pendientes</h6>
+            <h3 id="pendientes">0</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <i class="bi bi-check-circle fs-3 text-success"></i>
+            <h6>Aprobadas</h6>
+            <h3 id="aprobadas">0</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <i class="bi bi-x-circle fs-3 text-danger"></i>
+            <h6>Rechazadas</h6>
+            <h3 id="rechazadas">0</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 🧾 TABLA -->
+    <div class="card border-0 shadow-sm">
+      <div class="card-body">
+        <table class="table table-hover align-middle">
+          <thead class="table-dark text-center">
+            <tr>
+              <th>ID</th>
+              <th>Docente</th>
+              <th>Curso</th>
+              <th>Semestre</th>
+              <th>Fecha</th>
+              <th>Servidor</th>
+              <th>Estado</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody id="tablaSolicitudes"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="text-center mt-4 text-secondary small">
+      © 2025 Universidad Privada de Tacna - Escuela Profesional de Ingeniería de Sistemas<br>
+      Sistema de Gestión de Préstamos de Servidores v1.0
+    </div>
+  </div>
+
+  <!-- 📋 MODAL DETALLES -->
+  <div class="modal fade" id="modalDetalles" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content border-0 shadow-lg">
+        <div class="modal-header bg-primary text-white">
+          <h5 class="modal-title fw-bold"><i class="bi bi-info-circle me-2"></i>Detalles de la Solicitud</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body p-4" id="detalleContenido"></div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ✅ MODAL APROBAR -->
+  <div class="modal fade" id="modalAprobar" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content border-0 shadow">
+        <div class="modal-header bg-success text-white">
+          <h5 class="modal-title fw-bold"><i class="bi bi-check-circle me-2"></i>Aprobar Solicitud</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body">
+          <p>Seleccione el personal de soporte que aprueba la solicitud:</p>
+          <select id="soporteAprobador" class="form-select mb-3">
+            <option value="Tell Casilla Maquera">Tell Casilla Maquera (Mañana)</option>
+            <option value="Jhon Ticona Chambi">Jhon Ticona Chambi (Tarde)</option>
+          </select>
+          <input type="hidden" id="idAprobar">
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+          <button class="btn btn-success" id="btnConfirmarAprobacion">Confirmar Aprobación</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ❌ MODAL RECHAZAR -->
+  <div class="modal fade" id="modalRechazar" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content border-0 shadow">
+        <div class="modal-header bg-danger text-white">
+          <h5 class="modal-title fw-bold"><i class="bi bi-x-circle me-2"></i>Rechazar Solicitud</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body">
+          <p>Seleccione el personal de soporte que rechaza la solicitud:</p>
+          <select id="soporteRechazador" class="form-select mb-3">
+            <option value="Tell Casilla Maquera">Tell Casilla Maquera (Mañana)</option>
+            <option value="Jhon Ticona Chambi">Jhon Ticona Chambi (Tarde)</option>
+          </select>
+          <label class="form-label">Motivo del rechazo:</label>
+          <textarea id="motivoRechazo" class="form-control" rows="3" placeholder="Ingrese el motivo..."></textarea>
+          <input type="hidden" id="idRechazar">
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+          <button class="btn btn-danger" id="btnConfirmarRechazo">Confirmar Rechazo</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/soporte.js"></script>
+</body>
+</html>

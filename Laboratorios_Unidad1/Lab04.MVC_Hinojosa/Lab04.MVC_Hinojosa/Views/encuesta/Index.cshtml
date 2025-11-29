@@ -1,0 +1,38 @@
+﻿@model Lab04.MVC_Chite.Models.ClsEncuesta
+@{
+    ViewBag.Title = "Index";
+}
+
+<center>
+    <h1>Encuesta</h1>
+    <div class="card">
+        <div class="card-header">
+            <div class="card-title">
+                <h2>¿Qué Lenguaje de Programación te gusta?</h2>
+
+            </div>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Votar", "Encuesta", FormMethod.Post))
+            {
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                foreach (var opcion in Model.Opciones)
+                {
+                    <div class="card-group">
+                        <label class="texto">
+                            @Html.RadioButtonFor(m => m.OpcionSeleccionada, opcion) @opcion
+                        </label>
+                    </div>
+
+                }
+                <br /><br />
+                <button type="submit" class="btn btn-primary">Votar</button>
+
+            }
+
+
+        </div>
+    </div>
+
+</center>

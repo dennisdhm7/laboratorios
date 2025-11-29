@@ -1,0 +1,32 @@
+﻿@model Lab06_LINQ_Arrays_Hinojosa.Models.ClsProductoPrecio
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Busqueda de Productos</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Busqueda de Productos</h1>
+            <br />
+
+            @using (Html.BeginForm("Index", "ProductoPrecio", FormMethod.Post))
+            {
+                @Html.TextBoxFor(m => m.busqueda, new { placeholder = "Ingrese un producto..." })
+                <br /><br />
+                <input type="submit" value="Buscar" />
+            }
+
+            <br />
+            @Html.TextAreaFor(m => m.resultado, new { rows = "20", cols = "50" })
+        </center>
+    </div>
+</body>
+</html>

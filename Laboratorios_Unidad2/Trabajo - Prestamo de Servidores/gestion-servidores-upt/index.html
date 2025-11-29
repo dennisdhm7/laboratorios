@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Solicitud de Préstamo de Servidor - EPIS UPT</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+  <link rel="stylesheet" href="css/estilos.css" />
+
+  <style>
+    body {
+      background-color: #f4f6f9;
+      min-height: 100vh;
+    }
+
+    nav.navbar {
+      background-color: #1b1b1b;
+    }
+
+    .card-form {
+      max-width: 950px;
+      margin: 40px auto;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+      background: #fff;
+      animation: fadeIn 0.6s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .card-header {
+      background-color: #0d6efd;
+      color: #fff;
+      text-align: center;
+      padding: 1.5rem;
+    }
+
+    .card-header h3 {
+      font-weight: 600;
+      margin: 0;
+    }
+
+    .section-title {
+      font-weight: 600;
+      color: #0d6efd;
+      margin-bottom: 0.5rem;
+    }
+
+    .form-section {
+      border-left: 4px solid #0d6efd;
+      padding-left: 10px;
+      margin-bottom: 1.5rem;
+    }
+
+    .btn-primary {
+      background-color: #0d6efd;
+      border: none;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+
+    .btn-primary:hover {
+      background-color: #0b5ed7;
+      transform: scale(1.03);
+    }
+
+    .form-control, .form-select {
+      border-radius: 8px;
+    }
+
+    .input-group-text {
+      background-color: #e9ecef;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6c757d;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark px-4 shadow-sm">
+    <a class="navbar-brand fw-bold text-white" href="#">
+      <i class="bi bi-hdd-network me-2"></i>Préstamo de Servidores
+    </a>
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <a href="index.html" class="nav-link active"><i class="bi bi-pencil-square me-1"></i>Solicitud</a>
+      </li>
+      <li class="nav-item">
+        <a href="soporte.html" class="nav-link"><i class="bi bi-person-gear me-1"></i>Soporte</a>
+      </li>
+      <li class="nav-item">
+        <a href="reportes.html" class="nav-link"><i class="bi bi-bar-chart-line me-1"></i>Reportes</a>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="container py-4">
+    <div class="card card-form">
+      <div class="card-header">
+        <h3><i class="bi bi-file-earmark-text me-2"></i>Solicitud de Préstamo de Servidor - EPIS UPT</h3>
+      </div>
+
+      <form id="formSolicitud" class="p-4">
+        
+        <!-- Docente -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-person-workspace me-2"></i>Datos del Docente</h5>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label">Docente</label>
+              <input type="text" id="docente" class="form-control" value="Martin Alcántar Martínez" readonly>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">Curso</label>
+              <select id="curso" class="form-select" required>
+                <option>Redes I</option>
+                <option>Redes II</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Fecha y horario -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-calendar-week me-2"></i>Fecha y Horario</h5>
+          <div class="row g-3">
+            <div class="col-md-4">
+              <label class="form-label">Semestre</label>
+              <input type="text" id="semestre" class="form-control" value="2025-II" readonly>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Fecha</label>
+              <input type="date" id="fecha" class="form-control" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Hora (Inicio - Fin)</label>
+              <div class="input-group">
+                <input type="time" id="horaInicio" class="form-control" min="08:00" max="21:00" required>
+                <span class="input-group-text">a</span>
+                <input type="time" id="horaFin" class="form-control" min="08:00" max="21:00" required>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Servidor -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-server me-2"></i>Información del Servidor</h5>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label">Servidor</label>
+              <select id="servidor" class="form-select" required>
+                <option value="">Seleccione...</option>
+                <option value="Server1">Server1</option>
+                <option value="Server2">Server2</option>
+                <option value="Server3">Server3</option>
+                <option value="Server4">Server4</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">Características del servidor</label>
+              <textarea id="caracteristicas" class="form-control" rows="3" readonly></textarea>
+            </div>
+          </div>
+        </div>
+
+        <!-- Opcionales -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-pc-display-horizontal me-2"></i>Equipos Opcionales</h5>
+          <div class="d-flex flex-wrap gap-3">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="Monitor" id="monitor">
+              <label class="form-check-label" for="monitor">Monitor</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="Teclado" id="teclado">
+              <label class="form-check-label" for="teclado">Teclado</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="Mouse" id="mouse">
+              <label class="form-check-label" for="mouse">Mouse</label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Grupo -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-people-fill me-2"></i>Integrantes del Grupo</h5>
+          <div class="row g-3 align-items-start">
+            <div class="col-md-6">
+              <label class="form-label">Código del responsable (líder)</label>
+              <input type="text" id="codigoResponsable" class="form-control" required>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">Integrantes</label>
+              <div id="integrantes"></div>
+              <button type="button" id="btnAgregarIntegrante" class="btn btn-outline-primary btn-sm mt-2">
+                <i class="bi bi-person-plus"></i> Agregar integrante
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Soporte -->
+        <div class="form-section">
+          <h5 class="section-title"><i class="bi bi-person-gear me-2"></i>Personal de Soporte</h5>
+          <select id="soporte" class="form-select" required>
+            <option value="Tell Casilla Maquera">Tell Casilla Maquera (Mañana)</option>
+            <option value="Jhon Ticona Chambi">Jhon Ticona Chambi (Tarde)</option>
+          </select>
+        </div>
+
+        <!-- Enviar -->
+        <div class="text-end mt-4">
+          <button type="submit" class="btn btn-primary px-4 py-2">
+            <i class="bi bi-send-fill me-2"></i>Enviar solicitud
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <footer>
+      © 2025 Universidad Privada de Tacna - EPIS<br />
+      Sistema de Gestión de Préstamos de Servidores v1.0
+    </footer>
+  </div>
+
+  <script src="js/solicitud.js"></script>
+</body>
+</html>

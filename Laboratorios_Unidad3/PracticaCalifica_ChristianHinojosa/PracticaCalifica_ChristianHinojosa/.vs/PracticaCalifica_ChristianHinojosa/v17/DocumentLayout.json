@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\atencions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\atencions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\atencions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\atencions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\controllers\\atencionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\controllers\\atencionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\atencions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\atencions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|c:\\users\\chris\\source\\repos\\practicacalifica_christianhinojosa\\practicacalifica_christianhinojosa\\views\\atencions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\atencions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\consejeriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\consejeriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\filters\\sesionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\filters\\sesionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\docentes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\docentes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\views\\atencions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\views\\atencions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\filters\\validarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\filters\\validarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\practicacalifica_christianhinojosa\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1469353-4103-4B5F-9889-2EAAE7C34ED4}|PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa.csproj|solutionrelative:practicacalifica_christianhinojosa\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:52:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtencionsController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\AtencionsController.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Controllers\\AtencionsController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\AtencionsController.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Controllers\\AtencionsController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:47:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Web.config",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Web.config",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Web.config",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-21T23:39:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Dashboard.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Dashboard.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T00:41:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Create.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:58:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwEUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:56:01.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\web.config",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\web.config",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\web.config",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-22T00:37:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Index.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:57:08.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Edit.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:58:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsejeriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\ConsejeriaContext.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\ConsejeriaContext.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\ConsejeriaContext.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\ConsejeriaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:42:01.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Atencion.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Atencion.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\Atencion.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Atencion.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\Atencion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:41:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Details.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Details.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:58:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SesionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Filters\\SesionFilter.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Filters\\SesionFilter.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Filters\\SesionFilter.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Filters\\SesionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:33:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:52:26.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T00:00:16.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocentesController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\DocentesController.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Controllers\\DocentesController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\DocentesController.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Controllers\\DocentesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:46:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T00:00:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Usuario.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:07:50.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:55.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:51:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Edit.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:30.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Details.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Details.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Delete.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:43.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T00:00:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Estudiantes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T00:00:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Create.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:25.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Index.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Docentes\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:59:17.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Delete.cshtml",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Views\\Atencions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:58:50.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidarSesion.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Filters\\ValidarSesion.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Filters\\ValidarSesion.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Filters\\ValidarSesion.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Filters\\ValidarSesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:53:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:47:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Estudiante.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:41:11.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "PracticaCalifica_ChristianHinojosa\\Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\PracticaCalifica_ChristianHinojosa\\PracticaCalifica_ChristianHinojosa\\Models\\Docente.cs",
+              "RelativeToolTip": "PracticaCalifica_ChristianHinojosa\\Models\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:40:37.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

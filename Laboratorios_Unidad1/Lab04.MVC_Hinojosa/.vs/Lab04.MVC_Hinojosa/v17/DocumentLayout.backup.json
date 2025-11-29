@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\views\\encuesta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\views\\encuesta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|c:\\users\\chris\\source\\repos\\lab04.mvc_hinojosa\\lab04.mvc_hinojosa\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CB00BFE-581F-4BAD-AA5D-EF149197B784}|Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa.csproj|solutionrelative:lab04.mvc_hinojosa\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Views\\shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:31:20.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\packages.config",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\packages.config",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\packages.config",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-29T19:29:40.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Web.config",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Web.config",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Web.config",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-29T19:28:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\encuesta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Views\\encuesta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\encuesta\\Index.cshtml",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Views\\encuesta\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:27:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:27:33.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Global.asax.cs",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:29:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\web.config",
+              "RelativeDocumentMoniker": "Lab04.MVC_Hinojosa\\Views\\web.config",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\Lab04.MVC_Hinojosa\\Lab04.MVC_Hinojosa\\Views\\web.config",
+              "RelativeToolTip": "Lab04.MVC_Hinojosa\\Views\\web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-29T19:28:43.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

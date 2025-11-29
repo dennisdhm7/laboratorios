@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Ver";
+}
+
+<h2>Visualizar</h2>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="~/Categoria/Index">Categoria</a></li>
+        <li class="breadcrumb-item active">@Model.nombre</li>
+    </ol>
+</nav>
+
+<div class="card">
+    <div class="card-header">
+        <div class="card-title">Informacion de la Categoria</div>
+    </div>
+    <div class="card-boddy">
+        <dl>
+            <dt>Id</dt>
+            <dt>@Model.id_categ</dt>
+            <dt>Categoria</dt>
+            <dt>@Model.nombre</dt>
+            <dt>Descripcion</dt>
+            <dt>@Model.descripcion</dt>
+            <dt>Estado</dt>
+            <dt>@(Model.estado.Equals("A")?"Activo": "Inactivo")</dt>
+        </dl>
+    </div>
+</div>

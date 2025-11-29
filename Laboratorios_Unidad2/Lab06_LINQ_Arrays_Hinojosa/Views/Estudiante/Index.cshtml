@@ -1,0 +1,103 @@
+﻿@model IEnumerable<Lab06_LINQ_Arrays_Hinojosa.Models.ClsEstudiante>
+@{
+    Layout = null;
+    int i = 1;
+
+    int totalEstudiantes = Model.Count();
+    int cantidadAprobados = Model.Count(e => e.Condicion == "Aprobado");
+    int cantidadDesaprobados = totalEstudiantes - cantidadAprobados;
+
+    double porcentajeAprobados = totalEstudiantes == 0 ? 0 : ((double)cantidadAprobados / totalEstudiantes) * 100;
+    double porcentajeDesaprobados = totalEstudiantes == 0 ? 0 : ((double)cantidadDesaprobados / totalEstudiantes) * 100;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Lista de Estudiantes</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container my-5">
+        <h1 class="text-center mb-4">Lista de Estudiantes</h1>
+
+
+        <form method="get" action="@Url.Action("Index", "Estudiante")" class="d-flex mb-4">
+            <input type="text" name="busqueda" class="form-control me-2" placeholder="Buscar estudiante..." value="@Request["busqueda"]" />
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
+
+
+        <table class="table table-striped table-bordered table-hover table-sm">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th style="width: 5%;">Id</th>
+                    <th style="width: 40%;">Nombre</th>
+                    <th style="width: 20%;">Nota</th>
+                    <th style="width: 35%;">Condición</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">@i</td>
+                        <td>@item.Nombre</td>
+                        <td class="text-center">
+                            @if (item.Nota > 10.5)
+                            {
+                                <span class="badge bg-primary">@item.Nota</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">@item.Nota</span>
+                            }
+                        </td>
+                        <td>@item.Condicion</td>
+                    </tr>
+                    i++;
+                }
+
+                
+                <tr class="table-secondary fw-bold text-center">
+                    <td colspan="3">Total de Estudiantes</td>
+                    <td>@totalEstudiantes</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <div class="row mt-5">
+            <div class="col-md-8 offset-md-2">
+                <h3 class="text-center">Resumen de Estudiantes</h3>
+                <table class="table table-bordered table-sm mx-auto w-75">
+                    <thead class="table-light text-center">
+                        <tr>
+                            <th>Condición</th>
+                            <th>Cantidad</th>
+                            <th>Porcentaje</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-center">
+                        <tr>
+                            <td class="table-success">Aprobados</td>
+                            <td>@cantidadAprobados</td>
+                            <td>@porcentajeAprobados.ToString("0.00") %</td>
+                        </tr>
+                        <tr>
+                            <td class="table-danger">Desaprobados</td>
+                            <td>@cantidadDesaprobados</td>
+                            <td>@porcentajeDesaprobados.ToString("0.00") %</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+</body>
+</html>
+

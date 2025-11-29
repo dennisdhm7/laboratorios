@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Cliente SOAP - Tabla2</title>
+</head>
+<body>
+<center>
+    <h1>Tabla de Multiplicar con Tabla2 - WS</h1>
+
+    <form onsubmit="generarTabla(event)">
+        <label>Ingrese número: </label>
+        <input type="number" id="numero" required><br><br>
+
+        <button type="submit">Generar Tabla</button>
+    </form>
+
+    <div id="resultado"></div>
+</center>
+
+<script>
+function generarTabla(event){
+    event.preventDefault();
+
+    let numero = document.getElementById("numero").value;
+    let url = "http://localhost:56791/WebServices/WS_Server.asmx";
+
+    let xml = `
+    <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                   xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <soap:Body>
+        <Tabla2 xmlns="http://tempuri.org/">
+          <numero>${numero}</numero>
+        </Tabla2>
+      </soap:Body>
+    </soap:Envelope>`;
+
+    fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "text/xml; charset=utf-8",
+            "SOAPAction": "http://tempuri.org/Tabla2"
+        },
+        body: xml
+    })
+    .then(r => r.text())
+    .then(data => {
+        let parser = new DOMParser();
+        let doc = parser.parseFromString(data, "text/xml");
+
+        let items = doc.getElementsByTagName("string");
+        let html = "<h3>Resultado:</h3>";
+
+        for (let i = 0; i < items.length; i++) {
+            html += items[i].textContent + "<br>";
+        }
+
+        document.getElementById("resultado").innerHTML = html;
+    })
+    .catch(e => alert("Error: " + e));
+}
+</script>
+
+</body>
+</html>

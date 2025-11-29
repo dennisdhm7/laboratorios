@@ -1,0 +1,50 @@
+﻿@model Lab05_MVC_Hinojosa.Models.Producto.VentaViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Resultado</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Venta de Productos</h1>
+            <br /><br />
+            <table border="1" cellpadding="5">
+                <thead>
+                    <tr>
+                        <th>Imagen</th>
+                        <th>Producto</th>
+                        <th>Precio (S/.)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var producto in Model.Productos.Where(p => p.Seleccionado))
+                    {
+                        <tr>
+                            <td>
+                                <img src="@Url.Content(producto.ImagenUrl)" alt="@producto.Nombre" width="80" />
+                            </td>
+                            <td>@producto.Nombre</td>
+                            <td>S/. @producto.Precio</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <br />
+            <hr />
+            <br />
+
+            <b>Resumen de la Compra:</b><br />
+            <p><strong>Subtotal: </strong>S/. @Model.Subtotal </p>
+            <p><strong>IGV (18%): </strong>S/. @Model.IGV</p>
+            <p><strong>Total: </strong>S/. @Model.Total</p>
+        </center>
+    </div>
+</body>
+</html>

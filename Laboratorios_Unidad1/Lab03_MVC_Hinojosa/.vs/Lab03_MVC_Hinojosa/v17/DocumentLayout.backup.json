@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab03_mvc_hinojosa\\lab03_mvc_hinojosa\\views\\billete\\calculardenominacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|solutionrelative:lab03_mvc_hinojosa\\views\\billete\\calculardenominacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab03_mvc_hinojosa\\lab03_mvc_hinojosa\\controllers\\billetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|solutionrelative:lab03_mvc_hinojosa\\controllers\\billetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|c:\\users\\hp\\source\\repos\\lab03_mvc_hinojosa\\lab03_mvc_hinojosa\\models\\clsbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E7AD05-634E-4805-BCFC-8A1D77E937D1}|Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa.csproj|solutionrelative:lab03_mvc_hinojosa\\models\\clsbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularDenominacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Views\\Billete\\CalcularDenominacion.cshtml",
+              "RelativeDocumentMoniker": "Lab03_MVC_Hinojosa\\Views\\Billete\\CalcularDenominacion.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Views\\Billete\\CalcularDenominacion.cshtml",
+              "RelativeToolTip": "Lab03_MVC_Hinojosa\\Views\\Billete\\CalcularDenominacion.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T23:57:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BilleteController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Controllers\\BilleteController.cs",
+              "RelativeDocumentMoniker": "Lab03_MVC_Hinojosa\\Controllers\\BilleteController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Controllers\\BilleteController.cs",
+              "RelativeToolTip": "Lab03_MVC_Hinojosa\\Controllers\\BilleteController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:56:48.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsBillete.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Models\\ClsBillete.cs",
+              "RelativeDocumentMoniker": "Lab03_MVC_Hinojosa\\Models\\ClsBillete.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab03_MVC_Hinojosa\\Lab03_MVC_Hinojosa\\Models\\ClsBillete.cs",
+              "RelativeToolTip": "Lab03_MVC_Hinojosa\\Models\\ClsBillete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:55:02.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

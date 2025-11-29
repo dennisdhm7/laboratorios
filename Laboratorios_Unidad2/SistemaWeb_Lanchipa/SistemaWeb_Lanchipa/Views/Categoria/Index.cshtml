@@ -1,0 +1,49 @@
+﻿@model List<SistemaWeb_Hinojosa.Models.Categoria>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="card-header">
+    <a href="~/Categoria/AgregarEditar/" class="btn btn-dark">
+        Nueva Categoria
+    </a>
+</h2>
+
+@using (Html.BeginForm("Index", "Categoria", FormMethod.Post))
+{ 
+    <div class="text-end">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width:50px;">Id</th>
+            <th style="width:100px;">Categoria</th>
+            <th style="width:200px;">Descripción</th>
+            <th style="width:70px;">Estado</th>
+            <th style="width:250px;">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        { 
+            <tr>
+                <td>@(m.id_categ)</td>
+                <td>@(m.nombre)</td>
+                <td>@(m.descripcion)</td>
+                <td>@(m.estado == "A" ? "Activo" :  "Inactivo")</td>
+                <td style="align-content:center;">
+                    <a href="~/Categoria/Ver/@m.id_categ" class="btn btn-warning">Visualizar</a>
+                    <a href="~/Categoria/AgregarEditar/@m.id_categ" class="btn btn-primary">Modificar</a>
+                    <a href="~/Categoria/Eliminar/@m.id_categ" class="btn btn-danger"
+                       onclick="return confirm('¿Esta seguro de eliminar el registro...?');">
+                        Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

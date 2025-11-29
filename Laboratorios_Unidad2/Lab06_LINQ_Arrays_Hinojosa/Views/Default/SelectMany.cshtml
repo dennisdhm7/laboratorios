@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SelectMany</title>
+</head>
+<body>
+    <div> 
+        <center>
+            <h1>Lista de Productos por Caracteres</h1>
+            <br />
+            @Html.TextAreaFor(m => ViewData["Resultado"], new { rows = "25", cols = "10" })
+            <br />
+        </center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Where3</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Lista de Productos que sus letras es mayor a 3</h1>
+            <br />
+            @Html.TextAreaFor(m => ViewData["Resultado"], new { rows = "25", cols = "50" })
+            <br />
+        </center>
+    </div>
+</body>
+</html>

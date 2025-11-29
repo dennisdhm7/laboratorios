@@ -1,0 +1,38 @@
+﻿@model Lab01.MVC_Hinojosa.Models.ClsOperaciones
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Operaciones Aritmeticas</h1>
+            <br />
+            <form name="frmOperaciones" action="Calcular" method="post">
+                <label>Numero 1: </label>
+                <input type="number" name="valor1" /> <br />
+                <label>Numero 2: </label>
+                <input type="number" name="valor2" /> <br />
+                <label>Operación: </label>
+                <select name="tipo">
+                    <option value="S">Suma</option>
+                    <option value="R">Resta</option>
+                    <option value="M">Multiplicacion</option>
+                    <option value="D">División</option>
+                </select>
+                <br />
+                <input type="submit" value="Calcular" /> <br />
+            </form>
+            <br />
+        </center>
+
+    </div>
+</body>
+</html>

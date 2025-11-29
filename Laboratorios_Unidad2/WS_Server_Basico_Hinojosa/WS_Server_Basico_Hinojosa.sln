@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_Server_Basico_Hinojosa", "WS_Server_Basico_Hinojosa\WS_Server_Basico_Hinojosa.csproj", "{CEC62D4F-9D09-46C0-8707-06C095E0753F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC62D4F-9D09-46C0-8707-06C095E0753F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC62D4F-9D09-46C0-8707-06C095E0753F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC62D4F-9D09-46C0-8707-06C095E0753F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC62D4F-9D09-46C0-8707-06C095E0753F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F6FDCF-0FE4-4231-857A-FAA50794F64F}
+	EndGlobalSection
+EndGlobal

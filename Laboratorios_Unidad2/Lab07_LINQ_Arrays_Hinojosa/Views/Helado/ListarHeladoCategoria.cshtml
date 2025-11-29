@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Lab07_LINQ_Arrays_Hinojosa.Models.Helado>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Lista de Helados</h1>
+            <br /><br />
+            <table border="1">
+                <thead>
+                    <tr>
+                        <td>Codigo</td>
+                        <td>Categoria</td>
+                        <td>Helado</td>
+                        <td>Composicion</td>
+                        <td>Stock</td>
+                        <td>Precio</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var c in Model)
+                    {
+                        <tr>
+                            <td>@(c.cod_helado)</td>
+                            <td>@(c.Categoria.nombre)</td>
+                            <td>@(c.nombre)</td>
+                            <td>@(c.composicion)</td>
+                            <td>@(c.stock_actual)</td>
+                            <td>@(c.precio)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </center>
+    </div>
+</body>
+</html>
+

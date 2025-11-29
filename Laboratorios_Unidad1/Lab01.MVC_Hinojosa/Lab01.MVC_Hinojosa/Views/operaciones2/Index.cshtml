@@ -1,0 +1,47 @@
+﻿@model Lab01.MVC_Hinojosa.Models.ClsOperaciones
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <center>
+            <h1>Operaciones Aritmeticas = Razor</h1>
+            <br /><br />
+            @using (Html.BeginForm("Calcular", "Operaciones2", FormMethod.Post))
+            {
+                <div>
+                    @Html.Label("Numero 1: ")
+                    @Html.EditorFor(model => model.numero1)
+                </div>
+                <br />
+                <div>
+                    @Html.LabelFor(model => Model.numero2, "Numero 2: ")
+                    @Html.EditorFor(model => model.numero2)
+                </div>
+                <br />
+                <div>
+                    @Html.LabelFor(model => Model.tipo, "Operaciones: ")
+                    @Html.DropDownListFor(model => model.tipo, new List<SelectListItem>
+                    {
+                        new SelectListItem() { Text = "Suma", Value = "S"},
+                        new SelectListItem() { Text = "Resta", Value = "R"},
+                        new SelectListItem() { Text = "Multiplicacion", Value = "M"},
+                        new SelectListItem() { Text = "Division", Value = "D"}
+                    })
+                </div>
+                <br />
+                <input type="submit" value="= "Calcular" />
+             }
+            <br /><br />
+        </center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿@model Lab01.MVC_Hinojosa.Models.ClsPersona
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h1>Datos Personales</h1>
+        <div>
+            <label>Apellidos: </label>@Model.apellido <br />
+            <label>Nombres: </label>@Model.nombres <br />
+            <label>Email: </label>@Model.email <br />
+            <label>Edad: </label>@Model.edad <br />
+            <label>Peso: </label>@Model.peso <br />
+            <label>Sexo: </label>@(Model.sexo.Equals(true) ? "Masculino" : "Femenino")
+        </div>
+    </div>
+</body>
+</html>

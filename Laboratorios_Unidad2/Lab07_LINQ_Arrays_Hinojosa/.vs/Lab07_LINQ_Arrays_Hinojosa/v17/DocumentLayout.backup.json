@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Hinojosa.csproj|e:\\programacion web ii\\laboratorio7-mvc-dennisdhm7\\lab07_linq_arrays_chite\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Hinojosa.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|e:\\programacion web ii\\laboratorio7-mvc-dennisdhm7\\lab07_linq_arrays_chite\\views\\helado\\listarheladocategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:views\\helado\\listarheladocategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\views\\helado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:views\\helado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\controllers\\heladocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:controllers\\heladocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\models\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:models\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\views\\categoria\\consulta1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:views\\categoria\\consulta1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\models\\modelosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98B2856-BA10-4B8F-82CF-AAD989E3C87D}|Lab07_LINQ_Arrays_Chite.csproj|solutionrelative:models\\modelosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-04T00:53:34.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarHeladoCategoria.cshtml",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Helado\\ListarHeladoCategoria.cshtml",
+              "RelativeDocumentMoniker": "Views\\Helado\\ListarHeladoCategoria.cshtml",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Helado\\ListarHeladoCategoria.cshtml",
+              "RelativeToolTip": "Views\\Helado\\ListarHeladoCategoria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T00:41:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Helado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Helado\\Index.cshtml",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Helado\\Index.cshtml",
+              "RelativeToolTip": "Views\\Helado\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T00:36:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeladoController.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Controllers\\HeladoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HeladoController.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Controllers\\HeladoController.cs",
+              "RelativeToolTip": "Controllers\\HeladoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:35:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helado.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Helado.cs",
+              "RelativeDocumentMoniker": "Models\\Helado.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Helado.cs",
+              "RelativeToolTip": "Models\\Helado.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:33:26.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consulta1.cshtml",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Categoria\\Consulta1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\Consulta1.cshtml",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Categoria\\Consulta1.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\Consulta1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T00:31:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\Index.cshtml",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T00:24:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:20:25.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-04T00:11:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:11:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:11:11.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModeloSistema.cs",
+              "DocumentMoniker": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\ModeloSistema.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloSistema.cs",
+              "ToolTip": "E:\\Programacion Web II\\laboratorio7-mvc-dennisdhm7\\Lab07_LINQ_Arrays_Chite\\Models\\ModeloSistema.cs",
+              "RelativeToolTip": "Models\\ModeloSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:10:45.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

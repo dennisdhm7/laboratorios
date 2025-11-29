@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Operaciones SOAP</title>
+</head>
+<body>
+<center>
+    <h1>Operaciones con Web Service</h1>
+
+    <form onsubmit="calcular(event)">
+        <label>Número 1:</label>
+        <input type="number" id="n1" required><br><br>
+
+        <label>Número 2:</label>
+        <input type="number" id="n2" required><br><br>
+
+        <label>Operación:</label>
+        <select id="operacion">
+            <option value="S">Suma</option>
+            <option value="R">Resta</option>
+            <option value="M">Multiplicación</option>
+            <option value="D">División</option>
+        </select><br><br>
+
+        <button type="submit">Calcular</button>
+    </form>
+
+    <h2 id="resultado"></h2>
+</center>
+
+<script>
+function calcular(event) {
+    event.preventDefault();
+
+    let num1 = document.getElementById("n1").value;
+    let num2 = document.getElementById("n2").value;
+    let tipo = document.getElementById("operacion").value;
+
+    let url = "http://localhost:56791/WebServices/WS_Server.asmx";
+
+    let xml = `
+    <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                   xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+        <soap:Body>
+            <Operaciones xmlns="http://tempuri.org/">
+                <tipo>${tipo}</tipo>
+                <num1>${num1}</num1>
+                <num2>${num2}</num2>
+            </Operaciones>
+        </soap:Body>
+    </soap:Envelope>`;
+
+    fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "text/xml; charset=utf-8",
+            "SOAPAction": "http://tempuri.org/Operaciones"
+        },
+        body: xml
+    })
+    .then(r => r.text())
+    .then(data => {
+        let parser = new DOMParser();
+        let doc = parser.parseFromString(data, "text/xml");
+        let resultado = doc.getElementsByTagName("OperacionesResult")[0].textContent;
+
+        document.getElementById("resultado").innerHTML = "Resultado: " + resultado;
+    });
+}
+</script>
+
+</body>
+</html>
