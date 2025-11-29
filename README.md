@@ -48,6 +48,7 @@ Algunos laboratorios ya fueron Enviado al aula virtuals en el Aula Virtual, mien
 |-------------------------|--------|
 | **03_11_25_SistemaWeb_Hinojosa** | ✔ Enviado al aula virtual |
 | **05_11_25_SistemaWeb_Hinojosa** | ✔ Enviado al aula virtual |
+| **07_11_25_SistemaWeb_Hinojosa** | 🔄 Regularizar |
 | **10_11_25_lab_WS_Cliente_Basico_Hinojosa** | ✔ Enviado al aula virtual |
 | **12_11_25_clienteWS_PHP_Christian_Hinojosa** | ✔ Enviado al aula virtual |
 | **14_11_25_clientesSW_ChristianHinojosa** | ✔ Enviado al aula virtual |
